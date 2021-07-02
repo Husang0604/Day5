@@ -63,6 +63,7 @@ class Main {
                 }
             }
             else if(num == 5) {
+                System.out.println("Thanks for using!!!");
                 break;
             }
             else {
